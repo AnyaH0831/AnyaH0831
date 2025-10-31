@@ -7,4 +7,5 @@ Tech Stack:
 - Java
 - JavaScript
 - C++
+- Ruby
 - ...
